@@ -1,5 +1,4 @@
 import requests
-import schedule as schedule
 from bs4 import BeautifulSoup
 from fastapi import FastAPI
 
